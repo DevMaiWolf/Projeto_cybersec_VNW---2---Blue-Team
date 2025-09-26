@@ -66,9 +66,10 @@ A metodologia adotada é a de consultoria ágil e focada em resultados, seguindo
 
     Plano de ação: Criação de um roadmap detalhado com fases e responsáveis.
 
----
+
+
 ## 5. Diagrama da Arquitetura de Defesa em Camadas (Mermaid)
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/" />
+---<img width="647" height="641" alt="mermaide" src="https://github.com/user-attachments/assets/d75ad949-4498-4eb2-93b6-d47605cc88bf" />
 
 ---
 ## 6. Proposta Técnica
